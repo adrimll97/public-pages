@@ -9,4 +9,4 @@ Repositorio público personal para alojar archivos HTML, demos rápidas, experim
 Todos los proyectos alojados aquí están accesibles a través del siguiente formato:
 
 ```text
-https://<tu-usuario>.github.io/<nombre-del-repo>/ruta-al-archivo.html
+https://adrimll97.github.io/public-pages/ruta-al-archivo.html
